@@ -25,7 +25,7 @@ SECRET_KEY = '!4sqkzqf19#5ucth-l($m!_s&b&xf**-!rl7v3(qxw#$k37$ap'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'nikitakabir.pythonanywhere.com']
 
 
 # Application definition
@@ -106,7 +106,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC-7'
+TIME_ZONE = 'America/Los_Angeles'
 
 USE_I18N = True
 
